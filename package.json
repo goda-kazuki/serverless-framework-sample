@@ -3,21 +3,13 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "dependencies": {
-    "serverless": "^2.43.1"
+  "dependencies": {},
+  "devDependencies": {
+    "serverless": "^2.44.0"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/goda-kazuki/serverless-framework-sample.git"
-  },
   "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/goda-kazuki/serverless-framework-sample/issues"
-  },
-  "homepage": "https://github.com/goda-kazuki/serverless-framework-sample#readme"
+  "license": "ISC"
 }
